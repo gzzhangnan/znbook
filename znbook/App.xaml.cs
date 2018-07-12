@@ -30,7 +30,6 @@ namespace znBook
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
-            string str = "000";
         }
 
         /// <summary>
